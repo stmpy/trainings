@@ -1,11 +1,15 @@
----
-title: Kubernetes Lab for Engineering
-author: Travis Jeppson
-tags: 'kuberentes, lab, training'
+<!DOCTYPE html>
+<html>
 
----
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kubernetes Engineering Lab</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
-<h2 id="kubernetes-lab-for-engineering">Kubernetes Lab for Engineering</h2>
+<body class="stackedit">
+  <div class="stackedit__html"><h2 id="kubernetes-lab-for-engineering">Kubernetes Lab for Engineering</h2>
 <p>Learning how to interact with, and use kubernetes in your daily workflow</p>
 <h1 id="required-tools">Required Tools</h1>
 <h2 id="git">Git</h2>
@@ -34,4 +38,7 @@ brew install socat datawire/blackbird/telepresence
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
+</div>
+</body>
 
+</html>
