@@ -50,3 +50,6 @@ This will follow the live logs of a container in a pod. The --tail=10 will also 
 ### Kail
 
 ### Kubetail
+
+
+> Written with [StackEdit](https://stackedit.io/).
